@@ -1,0 +1,15 @@
+D:\Dóri\elte\CSharp\Curves\Curves\bin\Debug\Curves.exe.config
+D:\Dóri\elte\CSharp\Curves\Curves\bin\Debug\Curves.exe
+D:\Dóri\elte\CSharp\Curves\Curves\bin\Debug\Curves.pdb
+D:\Dóri\elte\CSharp\Curves\Curves\obj\Debug\Curves.csprojAssemblyReference.cache
+D:\Dóri\elte\CSharp\Curves\Curves\obj\Debug\MainWindow.g.cs
+D:\Dóri\elte\CSharp\Curves\Curves\obj\Debug\App.g.cs
+D:\Dóri\elte\CSharp\Curves\Curves\obj\Debug\Curves_MarkupCompile.cache
+D:\Dóri\elte\CSharp\Curves\Curves\obj\Debug\Curves_MarkupCompile.lref
+D:\Dóri\elte\CSharp\Curves\Curves\obj\Debug\MainWindow.baml
+D:\Dóri\elte\CSharp\Curves\Curves\obj\Debug\Curves.g.resources
+D:\Dóri\elte\CSharp\Curves\Curves\obj\Debug\Curves.Properties.Resources.resources
+D:\Dóri\elte\CSharp\Curves\Curves\obj\Debug\Curves.csproj.GenerateResource.cache
+D:\Dóri\elte\CSharp\Curves\Curves\obj\Debug\Curves.csproj.CoreCompileInputs.cache
+D:\Dóri\elte\CSharp\Curves\Curves\obj\Debug\Curves.exe
+D:\Dóri\elte\CSharp\Curves\Curves\obj\Debug\Curves.pdb
